@@ -1,0 +1,13 @@
+.vsconfig
+.vscode
+.vs
+.idea
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.log
